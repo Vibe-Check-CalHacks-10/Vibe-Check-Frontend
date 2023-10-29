@@ -1,0 +1,11 @@
+*.db
+*.py[cod]
+.web
+__pycache__/
+node_modules
+.env.local
+.eslintrc.js
+.prettierrc
+.prettierrc.json
+.vscode/
+.DS_Store
